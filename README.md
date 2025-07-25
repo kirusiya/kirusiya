@@ -1,4 +1,4 @@
-👋 Hi! I'm Edward Avalos – a Systems Engineer and Full Stack Web & Mobile Developer with 15+ years of experience in designing and developing custom, scalable, and high-performance digital solutions for companies worldwide.
+👋 Hi! I'm Edward Avalos – a Systems Engineer and Fullstack Developer (PHP/Laravel/Node.js/React/React Native/Next.js/Vue) & WordPress Senior Developer (PHP/React) & APIs REST/GraphQ & DevOps (Azure/Git) & Mobile Developer with 15+ years of experience in designing and developing custom, scalable, and high-performance digital solutions for companies worldwide.
 
 ---
 
