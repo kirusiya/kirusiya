@@ -34,8 +34,8 @@
 ---
 
 📬 **Let's Connect**:  
-📧 Email: edward@ajamba.org  
-📱 WhatsApp: +591 61781119 | [Whatsapp](https://wa.me/59161781119) 
-🔗 [LinkedIn](https://www.linkedin.com/in/edward-avalos-severiche/) | [GitHub](https://github.com/kirusiya)
+- 📧 Email: edward@ajamba.org  
+- 📱 WhatsApp: +591 61781119 | [Whatsapp](https://wa.me/59161781119) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/edward-avalos-severiche/) | [GitHub](https://github.com/kirusiya)
 
 💼 Open to freelance, contract, or remote full-time opportunities.
