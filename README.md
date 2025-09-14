@@ -39,8 +39,10 @@ Proven experience leading technical teams, designing modern architectures, and w
 - **Mobile:** React Native, Capacitor.js, Android SDK (Java), Expo, Push Notifications (Firebase, OneSignal)
 
 - **Cloud Services:** Firebase, Vercel, Netlify, Cloudflare, DigitalOcean
-Testing and Code Quality: PHPUnit, Jest, Vitest, Cypress, ESLint, Prettier
-Programming Fundamentals:Algorithms, data structures, OOP and design patterns
+
+- **Testing and Code Quality:** PHPUnit, Jest, Vitest, Cypress, ESLint, Prettier
+
+- **Programming Fundamentals:** Algorithms, data structures, OOP and design patterns
 
 
 ---
